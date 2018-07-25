@@ -8,7 +8,7 @@
 # Welcome to CAT 2.0 Course & Lets start the Scripting Foundation
 #
 ################################################################################################################
-echo "Welcome to CAT 2.0 Course"; # display message inquotes
-echo "Lets start the Scripting Foundation"; #display message inquotes
+# echo "Welcome to CAT 2.0 Course"; # display message inquotes
+# echo "Lets start the Scripting Foundation"; #display message inquotes
 
-#echo -e "Welcome to CAT 2.0 Course\nLets start the Scripting Foundation"; # Display both messages in one liner
+echo -e "Welcome to CAT 2.0 Course\nLets start the Scripting Foundation"; # Display both messages in one liner
